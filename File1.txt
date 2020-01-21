@@ -1,7 +1,4 @@
 Hello World!!!
 
 welcome to git.....
-
 change for feature - login
-
-change for feature - logout

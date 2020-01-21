@@ -1,6 +1,6 @@
 Change request 1-
 
-for updating changes in file2
+for updating changes in file2 in remote server
 
 changes file to partial implementation of building
 

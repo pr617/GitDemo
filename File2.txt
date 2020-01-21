@@ -1,3 +1,5 @@
 Change request 1-
 
 for updating changes in file2
+
+changes file to partial implementation of building

@@ -2,6 +2,10 @@ Change request 1-
 
 For updating changes in file2 in remote server
 
-Changes - file to partial implementation of building
 
-Change  -  the file to check push to remote server
+changes 1 --> file to partial implementation of building
+
+change 2 --> the file to check push to remote server to test rebase
+
+change3 - at local master
+
